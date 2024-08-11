@@ -7,3 +7,4 @@ class string2:
         upper_name=name2.upper()
         print(upper_name)
 string2.class2()
+print("git commit check")
