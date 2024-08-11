@@ -1,0 +1,320 @@
+# ==== Retrieved properties: 
+AEC_Enable=no
+AEC_MidCall_Enable=no
+AlwaysDisplayPPS=no
+Annex=annexa=no
+AudioMode=sr
+Bandwidth=+768
+BandwidthRR2=NA
+BandwidthRS2=NA
+BandwidthStats=no
+CandidateList=host;ser_ref;rel_ref
+CheckMsParamsViaSnmp=no
+ClipDirPath=/home/msbuild/release/TestToolClips/AutoTester
+ClipServerName=172.27.6.60
+CodecType=amr;h264
+ConferenceSampleRate=8000
+ConferenceSampleRateSetting=oamp
+CryptoAlgoType=
+DTLSFingerPrint=
+DTLSMidCallVideoProfile=
+DTLSProfile=
+DTLSSetup=active
+DTMFType=inbandoutband
+DisableStatsAggregation=no
+DropPacketRate=0
+EnableLoggingDCStats=no
+EnablePlayFeature=2
+EnableRTCP=yes
+EnableRandomLoss=no
+EnableRtcpFbWildCard=no
+EnableSRTP=no
+EnableSRTPMidCallKeyChange=no
+EnableStun=no
+EnableUNENCRYPTEDSRTCP=no
+EthernetSwitchoverInterval=0
+ExitOnError=0
+ExtUrlPrefixHTTP=http://10.3.0.xxx/clips
+ExtUrlPrefixNFS=file://mnt/10.3.0.xxx
+Fmtp=octet-align=0;mode-set=0,1,2,3,4,5,6,7
+HTTPRebootTimer=120
+HttpHost=10.3.0.xxx/scripts
+HttpRecordHost=http://10.3.0.xxx/upload
+IcePrivateIp=192.34.2.2
+IdealSwitchOverTime=25
+IgnoreNotMenuStop=no
+InterUpdateDelayAfterSWO=2
+LoadRtpgClips=yes
+LocalHost=10.214.8.4
+LocalSlaveIndex=0
+LogLevel=9
+MAX_PLI_THRESHOLD=10
+MSMLClamp=no
+MSMLClearDigits=yes
+MSMLClipBargeable=yes
+MSMLClipExtension=mov
+MSMLClipOverride=no
+MSMLClipVoiceBargeable=
+MSMLDTMFPassthrough=
+MSMLDualChannelRecording=no
+MSMLWarnClipUri=
+MSMLWarnClipUri2=
+MSMLWarnInterval=0
+MSMLWarnInterval2=0
+MasterLoadBalanceFactor0=1
+MasterNumInstance0=1
+MediaIpVersion=4
+MediaVideoIpVersion=4
+MidCallBandwidthRR2=NA
+MidCallBandwidthRS2=NA
+MidCallDTLSSetup=
+MidCallMediaIpVersion=4
+MidCallMediaVideoIpVersion=4
+MidCallRTPProfile=
+MidCallRtpExtId=-1
+MinInterCallDelay=0ms
+MinInterConfClose=0ms
+MinJoinDelay=0
+MinUnjoinDelay=0
+ModelSubMenu=
+MsmlAuditOnlyConfList=no
+MsmlFileTransferAppend=false
+MsmlFileTransferDelete=false
+MsmlFileTransferDestinationPath=
+MsmlFileTransferHTTPMethod=
+MsmlFileTransferRetry=0
+NBInit=0
+NG_Enable=no
+NLD_Enable=no
+NLD_MidCall_Enable=no
+NR_Enable=no
+NR_MidCall_Enable=no
+NeedToWaitForMsLCReady=no
+NfsRecordHost=file://mnt/mountdir
+NonIndexedClipName=no
+NonOverloadNumberOfRetries=20
+NonOverloadRetryTime=500
+NotifyRTCP=none
+NumOfRecordingFiles=0
+NumPacketsToDrop=0
+NumRTPGenerators=1
+NumberOfCandidate=2
+NumberOfClipListFiles=0
+NumberOfConnections=10
+OptionsRetryTimer=35
+OptionsSendTime=300
+OverloadCallRetryTime=500
+OverloadNumberOfRetries=2
+OverloadRestartDelay=0
+OverloadServiceRetryTime=500
+PPS=
+Packetization2=20
+Payload=102;104
+PlayClipType=g711ulaw
+PlaySpeechWhenOnlyAnncIsEnable=no
+ProtocolLog=no
+RTPGStartIndex=1
+RTPGeneratorHost1=10.211.8.4
+RTPGeneratorPort1=35070
+RTPPlaydelay=0
+RTPProfile=
+RTPRedundancyForwardLevel=0
+RTPRedundancyLevel=0
+RTPRedundancyRecordLevel=0
+RampUpIterations=3
+ReinviteTimer=5000
+ReportInterval=5000
+ReserveModel=yes
+RespondToIFrameRequest=true
+RestartTimer=10
+RtcpFBCount=5
+RtcpFBInterval=7000
+RtcpFbNackBlp=ffff
+RtcpFbNackOffset=250
+RtpExtId=-1
+RtpExtId2=-1
+RtpExtId3=-1
+RunningProgram=current_AT_LinEL_64bit
+SDPCapNeg=no
+SDPCapNeg3=no
+SDPLessReinvite=no
+SRTPKeyType=256
+SWOScriptCommand=python remote.py
+SilenceSuppression=on
+SipLocalPort=5060
+SipLocalTlsPort=5061
+SipMSIPAddress=10.211.5.259
+SipMSIPAddressSCC=10.213.10.112
+SkipOptions=yes
+StartUpTimer=550
+StatDisplayRate=5
+StopCallsBeforeSwitchOverTimer=100
+StopTestWhenStuckPortsDetected=no
+SwitchoverSCCInterval=0
+TO_AddTraceInfoInLabel=yes
+TO_AttributesOfLabel1=size="352x36" location="0,0" borderwidth="0" bordercolor="black" maxtime="0s" text-str="0123456789abcdefghijklmnopq\nrstuvwxyz"  text-location="2,2" text-font="en-default" text-color="red" text-background-color="black" text-background-transparency="0" text-style="Normal" text-line-space="Single" text-size="9"
+TO_AttributesOfLabel2=size="352x36" location="0,36" text-str="一二三四五六七八九十\n请选择菜单节目前一页" text-font="ch-default" text-color="red"  text-size="10"
+TO_AttributesOfLabel3=size="352x36" location="0,72" text-str="ABCDEFGHIJKLMNOPQRSTUVW\nXYZ`-=\;',./~!@#$%^&*()_+|:<>?[]{}?"  text-font="en-default" text-color="blue" text-background-color="yellow"  text-size="8"
+TO_AttributesOfLabel4=size="352x36" location="0,108" text-str="输入数字播放提示查看\n视频留言加入会议退出" text-font="ch-default" text-color="blue" text-background-color="gray" text-background-transparency="50"  text-size="10"
+TO_MSMLNumSend=0
+TO_NumberLabels=4
+TO_NumberLabelsForPlay=4
+TestEndTime=2024.07.27_09:25:36
+TestStartTime=2024.07.26_09:28:53
+TimeToLiveTimer=180
+TimeToWaitForLCReady=10
+TriggerEndScript=
+TriggerStartScript=
+UploadClips=no
+UriParameter=
+UseExtraMediaData=yes
+UseIndexedClips=no
+UseStartTimer=no
+UseUserClipList=no
+UserAnnouncementClipName=H264_304_383_256_384.3gp
+UserDrivenAnnouncementClip=yes
+UserDrivenClip=no
+VideoBandwidthRR2=NA
+VideoBandwidthRS2=NA
+VideoClipNameBase=stream
+VideoFmtp=profile-level-id=42800D
+VideoMidCallBandwidthRR2=NA
+VideoMidCallBandwidthRS2=NA
+VideoMode=sr
+VideoPlayMode=4
+_Mpc_Card_1_Slot=2
+_RetrievedFromMS_MPC1_CardType=SWMS
+_RetrievedFromMS_MPCFirmwareVersion=V11.139.0039
+_RetrievedFromMS_MSMLVersion=1.1
+_RetrievedFromMS_MSPlatform=vMRF_8_Radisys
+_RetrievedFromMS_SCCCardType=SWMS
+_RetrievedFromMS_SCCFirmwareVersion=V11.139.0039
+_TestToolProtocol=SIP
+_TestToolVersion=0507_dc-v2
+
+# ==== NOT Retrieved properties: 
+AnnClipPath=http://provisioned/
+ClipLoadLocalSCC1=10.211.1.243
+ClipName0=RemoteMS1
+ClipName1=RemoteMS1
+ClipName10=RemoteMS9
+ClipName11=RemoteMS9
+ClipName12=RemoteMS9
+ClipName13=RemoteMS9
+ClipName14=RemoteMS9
+ClipName15=RemoteMS9
+ClipName16=RemoteMS9
+ClipName2=RemoteMS2
+ClipName3=RemoteMS3
+ClipName4=RemoteMS4
+ClipName5=RemoteMS5
+ClipName6=RemoteMS6
+ClipName7=RemoteMS7
+ClipName8=RemoteMS8
+ClipName9=RemoteMS9
+ClipTransProtocol=FTP
+ClipTransUsername=anonymous
+FaxCodecType=pcmu
+HangupOnReInvite=yes
+IntRecordType=wav
+MgcpMSName=msXXmpcX.lab.convedia.com
+ModelLogPath=.
+NumRTPStreamMonitoring=2
+NumberOfConferences=1
+NumberOfUserClips=2
+RTPGeneratorPort2=30786
+RTPInterruptionThreshold=40
+RecordFilePath=transient
+SipMSPort=5060
+StartCallsAfterSwitchOverTimer=100
+SwitchoverActiveSCCSlot=1
+SwitchoverSCCUniqueIP=10.2.XX.X
+SwitchoverStandbySlot=14
+TO_MSMLSendEventDelay=2000
+TO_NumberLabelsForEachSend=1
+UserClipName1=speech;h263_video;
+UserClipName2=speech;h263_video;
+VC_MSMLNumSend=1
+VC_MSMLPlayAttrExtra=gain="0"
+VC_MSMLSendEvent=agc
+VC_MSMLSendEventDelay=2000
+VC_MSMLSendNameList=maxgain:3 tgtlvl:-10
+VO_IconClip=20_icon_bg.gif
+VO_IconLabel=location="-1,0" maxtime="0s" icon-background-transparency="50"
+
+###################################################
+Shortcuts: (0) quit, (1) menu, (5) stop
+[The model has been stopped. Final Results being saved...]
+[Stop Reasons:]
+[Menu command 5!]
+#################### VERSION 0507_dc-v2 ######################
+
+Model Name = MsmlAVAnnouncementVideoModel
+Calls Created = 20510
+Calls Deleted = 20510
+Active/Max amr ports = 0/10
+Active/Max h264 ports = 0/10
+Calls Created at MRFP1 ( 10.213.10.112:5060> ) is = 20510
+BYEs initiated by AT = 20510
+Number of Responses to BYEs initiated by AT = 20510
+Failed Scenarios = 0
+Number of SIP Requests with 408 Return Code = 20510
+Total Number of SIP Commands Sent = 82040
+Number of Audio Only Calls = 0
+Number of Video Only Calls = 0
+Number of Audio Video Calls = 20510
+SIP Command Sending Rate per second = 0.951731
+Total Running time for this model in seconds = 86200.9
+Max/Min/Average time of events in queue = 0.014/0/0.000789403
+Expected Scenario Running Time = 5.5
+Average Running Time of a Connection = 32.0272
+Max Running time of a Connection = 32.092
+Min Running time of a Connection = 31.998
+Maximum number of concurrent channels = 10
+Average number of concurrent channels = 7.61741
+Ramp up state average number of concurrent channels = 6.48686
+Steady state average number of concurrent channels = 7.61626 (AudioVideo Calls)
+Steady state average number of concurrent Audio Only channels = 0 (Audio Only Calls)
+Steady state average number of concurrent Video Only channels = 0 (Video Only Calls)
+Steady state average number of concurrent All channels = 7.61626 (Audio Only + Video Only + AudioVideo Calls)
+Duration of ramp up state in seconds = 48.965
+Duration of steady state in seconds = 86069
+Number of Calls in the 30 to 39s range = 20510
+Number of Timers Expired with no associated request = 287
+Number of Failures caused by an Internal AT Error = 0
+RTPG Stats
+	Packets sent = 115515965
+	Packets received = 32802874
+	Packets lost = 0
+	Packets dropped = 0
+	RTCP Packets sent = 246120
+	RTCP Packets received = 0
+	RTCP Audio Packets sent = 123060
+	RTCP Audio Packets Received = 0
+	RTCP Video Packets sent = 123060
+	RTCP Video Packets Received = 0
+Total Number of INFOs received from the MS = 0
+Total Number of DialogExits received from the MS = 0
+Number of INFOs Received with NO Script = 0
+Number of Announcements Played on SIP MS = 20510
+Number of Play Complete Notifications Received = 0
+Number of Play Failed Notifications Received = 0
+Number of Play Failed Notifications Received due to HTTP Reboot = 0
+Number of Play Complete BARGE Notifies Received = 0
+Number of Play TERMINATION Notifies Received = 0
+Number of Video Overlay Control requests = 0
+Number of Video Overlay Control completes = 0
+#######################################################
+
+SIP Stats
+=========
+ACK_tx: 20510
+BYE200_rx: 20510
+BYE_tx: 20510
+INFO408_rx: 20510
+INFO_tx: 20510
+INVITE200_rx: 20510
+INVITE_tx: 20510
+
+CFW Stats
+=========
